@@ -1,0 +1,1643 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Homey Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-22 14:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: homey-core"
+
+#: functions/emails.php:182 functions/emails.php:311
+#, php-format
+msgid "%s Email address is not configured!"
+msgstr ""
+
+#: functions/emails.php:434
+#, php-format
+msgid "%s Target Email address is not properly configured!"
+msgstr ""
+
+#: elementor/widgets/experiences.php:199 elementor/widgets/experience-carousel.php:206 elementor/widgets/listings.php:231 elementor/widgets/listing-carousel.php:238
+msgid "- Any -"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:34
+msgid "-- Choose field type --"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:103
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:104
+msgid "4 Columns"
+msgstr ""
+
+#: classes/class-review-post-type.php:160 classes/class-reservation-post-type.php:189 classes/class-listing-post-type.php:446 classes/class-experience-post-type.php:488
+#: classes/class-exp-reservation-post-type.php:189
+msgid "Actions"
+msgstr ""
+
+#: classes/class-partners-post-type.php:33 classes/class-testimonials-post-type.php:36 classes/class-menu.php:43 classes/class-menu.php:99 classes/class-review-post-type.php:31
+#: classes/class-review-post-type.php:32 classes/class-reservation-post-type.php:34 classes/class-reservation-post-type.php:35 classes/class-listing-post-type.php:58
+#: classes/class-listing-post-type.php:59 classes/class-listing-post-type.php:109 classes/class-listing-post-type.php:133 classes/class-listing-post-type.php:157
+#: classes/class-listing-post-type.php:180 classes/class-listing-post-type.php:203 classes/class-listing-post-type.php:226 classes/class-listing-post-type.php:249
+#: classes/class-listing-post-type.php:272 classes/class-invoice-post-type.php:35 classes/class-experience-post-type.php:63 classes/class-experience-post-type.php:64
+#: classes/class-experience-post-type.php:114 classes/class-experience-post-type.php:138 classes/class-experience-post-type.php:164 classes/class-experience-post-type.php:188
+#: classes/class-experience-post-type.php:212 classes/class-experience-post-type.php:235 classes/class-experience-post-type.php:258 classes/class-experience-post-type.php:281
+#: classes/class-experience-post-type.php:304 classes/class-experience-post-type.php:327 classes/class-cancelpolicy-post-type.php:36 classes/class-exp-reservation-post-type.php:34
+#: classes/class-exp-reservation-post-type.php:35 templates/currency/currency-list.php:4 templates/currency/form.php:17 templates/fields-builder/index.php:6 templates/fields-builder/fields-form.php:16
+msgid "Add New"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:37
+msgid "Add New Cancel Policy"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:36
+msgid "Add New Invoice"
+msgstr ""
+
+#: classes/class-partners-post-type.php:34
+msgid "Add New Partner"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:37
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/emails.php:489
+msgid "Additional message is as follows."
+msgstr ""
+
+#: functions/emails.php:256 functions/emails.php:385
+msgid "Additional message is."
+msgstr ""
+
+#: classes/class-review-post-type.php:154 classes/class-reservation-post-type.php:183 classes/class-exp-reservation-post-type.php:183 elementor/widgets/experiences.php:280
+#: elementor/widgets/experience-carousel.php:383 elementor/widgets/listings.php:310 elementor/widgets/listing-carousel.php:414 elementor/widgets/listing-by-id.php:134
+#: elementor/widgets/experience-by-ids.php:147 elementor/widgets/experience-by-id.php:134 elementor/widgets/listing-by-ids.php:147
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/experiences.php:500 elementor/widgets/experience-carousel.php:603 elementor/widgets/listings.php:569 elementor/widgets/listing-carousel.php:673
+#: elementor/widgets/listing-by-id.php:393 elementor/widgets/experience-by-ids.php:367 elementor/widgets/experience-by-id.php:354 elementor/widgets/listing-by-ids.php:406
+msgid "Address Color"
+msgstr ""
+
+#: elementor/widgets/experiences.php:352 elementor/widgets/experience-carousel.php:455 elementor/widgets/listings.php:391 elementor/widgets/listing-carousel.php:495
+#: elementor/widgets/listing-by-id.php:215 elementor/widgets/experience-by-ids.php:219 elementor/widgets/experience-by-id.php:206 elementor/widgets/listing-by-ids.php:228
+msgid "Address Margin Bottom(px)"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds functionality to Favethemes Themes"
+msgstr ""
+
+#: elementor/widgets/section-title.php:153
+msgid "Alignment"
+msgstr ""
+
+#: classes/class-listing-post-type.php:156 classes/class-experience-post-type.php:211
+msgid "Amenities"
+msgstr ""
+
+#: classes/class-permalinks.php:57
+msgid "Amenity"
+msgstr ""
+
+#: classes/class-homey-init.php:525
+msgid "API Settings"
+msgstr ""
+
+#: classes/class-listing-post-type.php:684 classes/class-experience-post-type.php:698
+msgid "Approve"
+msgstr ""
+
+#: classes/class-permalinks.php:67 classes/class-listing-post-type.php:271 classes/class-experience-post-type.php:326 elementor/widgets/experience-grids-v2.php:177
+#: elementor/widgets/experience-grids.php:179 elementor/widgets/experience-grids-v2-carousel.php:163
+msgid "Area"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:256 elementor/widgets/experience-grids-v2.php:237 elementor/widgets/grids.php:272 elementor/widgets/grids-v2.php:270 elementor/widgets/testimonials.php:149
+#: elementor/widgets/experience-grids.php:239 elementor/widgets/experience-grids-v2-carousel.php:223 elementor/widgets/partners.php:109
+msgid "ASC"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:248 classes/class-reservation-post-type.php:259 classes/class-exp-reservation-post-type.php:248 classes/class-exp-reservation-post-type.php:259
+#: includes/metaboxes.php:137 includes/metaboxes.php:151
+msgid "at"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:307 elementor/widgets/listing-carousel.php:339
+msgid "Auto Play"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:323 elementor/widgets/listing-carousel.php:355
+msgid "Autoplay Speed in milliseconds. Default 3000"
+msgstr ""
+
+#: elementor/widgets/experiences.php:408 elementor/widgets/experience-carousel.php:511 elementor/widgets/listings.php:477 elementor/widgets/listing-carousel.php:581
+#: elementor/widgets/listing-by-id.php:301 elementor/widgets/experience-by-ids.php:275 elementor/widgets/experience-by-id.php:262 elementor/widgets/listing-by-ids.php:314
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:314 elementor/widgets/grids-v2-carousel.php:372 elementor/widgets/experience-grids-v2.php:295 elementor/widgets/experiences.php:551
+#: elementor/widgets/grids-v2.php:328 elementor/widgets/experience-carousel.php:654 elementor/widgets/listings.php:621 elementor/widgets/listing-carousel.php:725
+#: elementor/widgets/experience-grids-v2-carousel.php:281 elementor/widgets/experience-grids-v2-carousel.php:339 elementor/widgets/icon-box.php:239
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:407 elementor/widgets/experiences.php:574 elementor/widgets/experience-carousel.php:689 elementor/widgets/listings.php:644
+#: elementor/widgets/listing-carousel.php:760 elementor/widgets/experience-grids-v2-carousel.php:374
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/search.php:37
+msgid "Banner Search"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:82
+msgid "Billion For"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:37
+msgid "Blog Posts Carousel"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:37
+msgid "Blog Posts Grid"
+msgstr ""
+
+#: elementor/widgets/listings.php:137 elementor/widgets/listing-carousel.php:136
+msgid "Booking Type"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:395 elementor/widgets/experiences.php:597 elementor/widgets/experience-carousel.php:677 elementor/widgets/listings.php:667
+#: elementor/widgets/listing-carousel.php:748 elementor/widgets/experience-grids-v2-carousel.php:362
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:430 elementor/widgets/experiences.php:608 elementor/widgets/experience-carousel.php:712 elementor/widgets/listings.php:678
+#: elementor/widgets/listing-carousel.php:783 elementor/widgets/experience-grids-v2-carousel.php:397
+msgid "Border Color Hover"
+msgstr ""
+
+#: elementor/widgets/experiences.php:400 elementor/widgets/experience-carousel.php:503 elementor/widgets/listings.php:469 elementor/widgets/listing-carousel.php:573
+#: elementor/widgets/listing-by-id.php:293 elementor/widgets/experience-by-ids.php:267 elementor/widgets/icon-box.php:228 elementor/widgets/experience-by-id.php:254
+#: elementor/widgets/listing-by-ids.php:306
+msgid "Box"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:326 elementor/widgets/experience-grids-v2.php:307 elementor/widgets/grids-v2.php:340 elementor/widgets/experience-grids-v2-carousel.php:293
+msgid "Box Radius"
+msgstr ""
+
+#: elementor/widgets/experiences.php:440 elementor/widgets/experiences.php:452 elementor/widgets/experience-carousel.php:543 elementor/widgets/experience-carousel.php:555
+#: elementor/widgets/listings.php:509 elementor/widgets/listings.php:521 elementor/widgets/listing-carousel.php:613 elementor/widgets/listing-carousel.php:625 elementor/widgets/listing-by-id.php:333
+#: elementor/widgets/listing-by-id.php:345 elementor/widgets/experience-by-ids.php:307 elementor/widgets/experience-by-ids.php:319 elementor/widgets/experience-by-id.php:294
+#: elementor/widgets/experience-by-id.php:306 elementor/widgets/listing-by-ids.php:346 elementor/widgets/listing-by-ids.php:358
+msgid "Box Shadow"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:85
+msgid "Buyer"
+msgstr ""
+
+#: classes/class-listing-post-type.php:704 classes/class-experience-post-type.php:718
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: classes/class-listing-post-type.php:704 classes/class-experience-post-type.php:718
+msgid "by a guest"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:35
+msgid "Cancel Policy"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:34
+msgid "Cancellation Policies"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:251 elementor/widgets/listing-carousel.php:283
+msgid "Carousel Settings"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:92 elementor/widgets/blog-posts.php:92
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/section-title.php:161
+msgid "Center"
+msgstr ""
+
+#: classes/class-review-post-type.php:155 classes/class-reservation-post-type.php:184 classes/class-exp-reservation-post-type.php:184
+msgid "Check-in"
+msgstr ""
+
+#: classes/class-review-post-type.php:156 classes/class-reservation-post-type.php:185 classes/class-exp-reservation-post-type.php:185
+msgid "Check-out"
+msgstr ""
+
+#: elementor/widgets/experience-grids-v2.php:98 elementor/widgets/grids.php:100 elementor/widgets/grids-v2.php:100 elementor/widgets/experience-grids.php:98
+msgid "Choose Grid"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:100 elementor/widgets/experience-grids-v2.php:112 elementor/widgets/grids.php:116 elementor/widgets/grids-v2.php:114
+#: elementor/widgets/experience-grids.php:114 elementor/widgets/experience-grids-v2-carousel.php:98
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: classes/class-permalinks.php:65 classes/class-listing-post-type.php:248 classes/class-listing-post-type.php:467 classes/class-experience-post-type.php:303 classes/class-experience-post-type.php:509
+#: elementor/widgets/experience-grids-v2.php:165 elementor/widgets/experience-grids.php:167 elementor/widgets/experience-grids-v2-carousel.php:151
+msgid "City"
+msgstr ""
+
+#: templates/currency/currency-list.php:11
+msgid "Code"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:383 elementor/widgets/experiences.php:562 elementor/widgets/experience-carousel.php:665 elementor/widgets/listings.php:632
+#: elementor/widgets/listing-carousel.php:736 elementor/widgets/experience-grids-v2-carousel.php:350 elementor/widgets/icon-box.php:292 elementor/widgets/icon-box.php:323
+#: elementor/widgets/icon-box.php:354
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:366
+msgid "Color :Hover"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:418 elementor/widgets/experiences.php:585 elementor/widgets/experience-carousel.php:700 elementor/widgets/listings.php:655
+#: elementor/widgets/listing-carousel.php:771 elementor/widgets/experience-grids-v2-carousel.php:385
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/experiences.php:468 elementor/widgets/experience-carousel.php:571 elementor/widgets/listings.php:537 elementor/widgets/listing-carousel.php:641
+#: elementor/widgets/listing-by-id.php:361 elementor/widgets/experience-by-ids.php:335 elementor/widgets/experience-by-id.php:322 elementor/widgets/listing-by-ids.php:374
+msgid "Colors"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:100
+msgid "Columns"
+msgstr ""
+
+#: elementor/widgets/experience-by-ids.php:101 elementor/widgets/listing-by-ids.php:101
+msgid "Columns in Row"
+msgstr ""
+
+#: classes/class-review-post-type.php:228
+msgid "Confirm"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:92 elementor/widgets/experience-grids-v2.php:90 elementor/widgets/experiences.php:111 elementor/widgets/grids.php:92 elementor/widgets/grids-v2.php:92
+#: elementor/widgets/blog-posts-carousel.php:83 elementor/widgets/experience-carousel.php:111 elementor/widgets/blog-posts.php:83 elementor/widgets/listings.php:113
+#: elementor/widgets/listing-carousel.php:113 elementor/widgets/testimonials.php:79 elementor/widgets/listing-by-id.php:79 elementor/widgets/register.php:79 elementor/widgets/space.php:79
+#: elementor/widgets/experience-by-ids.php:79 elementor/widgets/experience-grids.php:90 elementor/widgets/experience-grids-v2-carousel.php:90 elementor/widgets/icon-box.php:88
+#: elementor/widgets/icon-box.php:306 elementor/widgets/experience-by-id.php:79 elementor/widgets/partners.php:80 elementor/widgets/search.php:79 elementor/widgets/listing-by-ids.php:79
+#: elementor/widgets/promo-boxes.php:79 elementor/widgets/promo-boxes.php:104
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/experiences.php:383 elementor/widgets/experience-carousel.php:486 elementor/widgets/listings.php:452 elementor/widgets/listing-carousel.php:556
+#: elementor/widgets/listing-by-id.php:276 elementor/widgets/experience-by-ids.php:250 elementor/widgets/experience-by-id.php:237 elementor/widgets/listing-by-ids.php:289
+msgid "Content Area Padding"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:242 elementor/widgets/experience-grids-v2.php:223 elementor/widgets/grids.php:258 elementor/widgets/grids-v2.php:256
+#: elementor/widgets/experience-grids.php:225 elementor/widgets/experience-grids-v2-carousel.php:209
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:302 elementor/widgets/experience-grids-v2.php:283 elementor/widgets/grids-v2.php:316 elementor/widgets/experience-grids-v2-carousel.php:269
+msgid "Count Color"
+msgstr ""
+
+#: classes/class-permalinks.php:61 classes/class-listing-post-type.php:202 classes/class-listing-post-type.php:540 classes/class-experience-post-type.php:257 classes/class-experience-post-type.php:579
+#: elementor/widgets/experience-grids-v2.php:141 elementor/widgets/experience-grids.php:143 elementor/widgets/experience-grids-v2-carousel.php:127
+msgid "Country"
+msgstr ""
+
+#: classes/class-listing-post-type.php:503 classes/class-experience-post-type.php:542
+msgid "County/State"
+msgstr ""
+
+#: templates/currency/form.php:9
+msgid "Create Currency"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:9
+msgid "Create field"
+msgstr ""
+
+#: classes/class-homey-init.php:516 classes/class-homey-init.php:517 templates/currency/currency-list.php:3 templates/currency/form.php:16
+msgid "Currencies"
+msgstr ""
+
+#: templates/currency/form.php:29
+msgid "Currency Code"
+msgstr ""
+
+#: templates/currency/form.php:23
+msgid "Currency Name"
+msgstr ""
+
+#: templates/currency/form.php:39
+msgid "Currency Position"
+msgstr ""
+
+#: templates/currency/form.php:34
+msgid "Currency Symbol"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:139
+msgid "Custom Icon"
+msgstr ""
+
+#: classes/class-homey-init.php:498 classes/class-homey-init.php:499
+msgid "Dashboard"
+msgstr ""
+
+#: classes/class-review-post-type.php:153 classes/class-reservation-post-type.php:190 classes/class-listing-post-type.php:445 classes/class-invoice-post-type.php:87
+#: classes/class-experience-post-type.php:487 classes/class-exp-reservation-post-type.php:190 elementor/widgets/testimonials.php:136 elementor/widgets/partners.php:94
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/experiences.php:103 elementor/widgets/experience-carousel.php:103 elementor/widgets/listings.php:105 elementor/widgets/listing-carousel.php:105
+msgid "Date New to Old"
+msgstr ""
+
+#: elementor/widgets/experiences.php:102 elementor/widgets/experience-carousel.php:102 elementor/widgets/listings.php:104 elementor/widgets/listing-carousel.php:104
+msgid "Date Old to New"
+msgstr ""
+
+#: templates/currency/currency-list.php:15
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: templates/currency/form.php:63
+msgid "Decimal Point Separator(eg: .)"
+msgstr ""
+
+#: classes/class-review-post-type.php:235
+msgid "Decline"
+msgstr ""
+
+#: elementor/widgets/experiences.php:99 elementor/widgets/experience-carousel.php:99 elementor/widgets/listings.php:101 elementor/widgets/listing-carousel.php:101
+msgid "Default"
+msgstr ""
+
+#: templates/currency/currency-list.php:18 templates/fields-builder/index.php:14
+msgid "Delete"
+msgstr ""
+
+#: templates/currency/currency-list.php:46 templates/fields-builder/index.php:41
+msgid "Delete field"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:257 elementor/widgets/experience-grids-v2.php:238 elementor/widgets/grids.php:273 elementor/widgets/grids-v2.php:271 elementor/widgets/testimonials.php:150
+#: elementor/widgets/experience-grids.php:240 elementor/widgets/experience-grids-v2-carousel.php:224 elementor/widgets/partners.php:110
+msgid "DESC"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:116
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:344 elementor/widgets/listing-carousel.php:376
+msgid "Dots Nav"
+msgstr ""
+
+#: templates/currency/currency-list.php:17 templates/fields-builder/index.php:13
+msgid "Edit"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:38
+msgid "Edit Cancel Policy"
+msgstr ""
+
+#: classes/class-experience-post-type.php:65
+msgid "Edit Experience"
+msgstr ""
+
+#: templates/currency/currency-list.php:41 templates/fields-builder/index.php:36
+msgid "Edit field"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:37
+msgid "Edit Invoice"
+msgstr ""
+
+#: classes/class-listing-post-type.php:60
+msgid "Edit Listing"
+msgstr ""
+
+#: classes/class-partners-post-type.php:35
+msgid "Edit Partner"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:36 classes/class-exp-reservation-post-type.php:36
+msgid "Edit Reservation"
+msgstr ""
+
+#: classes/class-review-post-type.php:33
+msgid "Edit Review"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:38
+msgid "Edit Testimonial"
+msgstr ""
+
+#: classes/class-stripe.php:98
+msgid "Email"
+msgstr ""
+
+#: functions/emails.php:268 functions/emails.php:397
+msgid "Email Sent Successfully!"
+msgstr ""
+
+#: elementor/widgets/space.php:37
+msgid "Empty Space"
+msgstr ""
+
+#: elementor/widgets/experience-by-ids.php:117
+msgid "Enter Experiences ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:196
+msgid "Enter experiences ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:117
+msgid "Enter Listings ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:228
+msgid "Enter listings ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/experience-by-id.php:104
+msgid "Enter the experience ID. Example 59208"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:104
+msgid "Enter the listing ID. Example 305"
+msgstr ""
+
+#: templates/fields-builder/multiple.php:9
+msgid "Enter Value"
+msgstr ""
+
+#: classes/class-experience-post-type.php:62
+msgid "Experience"
+msgstr ""
+
+#: elementor/widgets/experiences.php:183 elementor/widgets/experience-carousel.php:182
+msgid "Experience Area"
+msgstr ""
+
+#: elementor/widgets/experience-by-id.php:37
+msgid "Experience by ID"
+msgstr ""
+
+#: elementor/widgets/experiences.php:171 elementor/widgets/experience-carousel.php:170
+msgid "Experience City"
+msgstr ""
+
+#: elementor/widgets/experiences.php:147 elementor/widgets/experience-carousel.php:146
+msgid "Experience Country"
+msgstr ""
+
+#: elementor/widgets/experience-grids-v2.php:37
+msgid "Experience Grids v2"
+msgstr ""
+
+#: elementor/widgets/experience-grids-v2-carousel.php:37
+msgid "Experience Grids v2 Carousel"
+msgstr ""
+
+#: classes/class-experience-post-type.php:486 elementor/widgets/experience-by-id.php:102
+msgid "Experience ID"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:194 elementor/widgets/experience-by-ids.php:115
+msgid "Experience IDs"
+msgstr ""
+
+#: classes/class-experience-post-type.php:137
+msgid "Experience Language"
+msgstr ""
+
+#: classes/class-exp-reservation-post-type.php:32
+msgid "Experience Reservations"
+msgstr ""
+
+#: elementor/widgets/experiences.php:159 elementor/widgets/experience-carousel.php:158
+msgid "Experience State"
+msgstr ""
+
+#: elementor/widgets/experiences.php:119 elementor/widgets/experience-carousel.php:119 elementor/widgets/experience-by-ids.php:87 elementor/widgets/experience-by-id.php:87
+msgid "Experience style"
+msgstr ""
+
+#: functions/emails.php:374
+msgid "Experience Title : "
+msgstr ""
+
+#: classes/class-experience-post-type.php:113 elementor/widgets/experiences.php:135 elementor/widgets/experience-carousel.php:134
+msgid "Experience Type"
+msgstr ""
+
+#: functions/emails.php:378
+msgid "Experience URL : "
+msgstr ""
+
+#: classes/class-menu.php:86 classes/class-experience-post-type.php:61 elementor/widgets/experiences.php:37
+msgid "Experiences"
+msgstr ""
+
+#: classes/class-permalinks.php:70
+msgid "Experiences "
+msgstr ""
+
+#: classes/class-permalinks.php:78
+msgid "Experiences Amenity"
+msgstr ""
+
+#: classes/class-permalinks.php:88
+msgid "Experiences Area"
+msgstr ""
+
+#: elementor/widgets/experience-by-ids.php:37
+msgid "Experiences by IDs"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:37
+msgid "Experiences Carousel"
+msgstr ""
+
+#: classes/class-permalinks.php:86
+msgid "Experiences City"
+msgstr ""
+
+#: classes/class-permalinks.php:82
+msgid "Experiences Country"
+msgstr ""
+
+#: classes/class-permalinks.php:80
+msgid "Experiences Facility"
+msgstr ""
+
+#: elementor/widgets/experience-grids.php:37
+msgid "Experiences Grids"
+msgstr ""
+
+#: elementor/widgets/search.php:92
+msgid "Experiences Horizontal"
+msgstr ""
+
+#: classes/class-permalinks.php:72
+msgid "Experiences Listing Type"
+msgstr ""
+
+#: classes/class-permalinks.php:84
+msgid "Experiences State"
+msgstr ""
+
+#: elementor/widgets/search.php:93
+msgid "Experiences Vertical"
+msgstr ""
+
+#: classes/class-permalinks.php:74
+msgid "Experiences What Give Item Type"
+msgstr ""
+
+#: classes/class-permalinks.php:76
+msgid "Experiences What Provided Item Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:179 classes/class-experience-post-type.php:234
+msgid "Facilities"
+msgstr ""
+
+#: classes/class-permalinks.php:59
+msgid "Facility"
+msgstr ""
+
+#. Author of the plugin
+msgid "Favethemes"
+msgstr ""
+
+#: classes/class-listing-post-type.php:439 classes/class-experience-post-type.php:481
+msgid "Featured"
+msgstr ""
+
+#: elementor/widgets/experiences.php:196 elementor/widgets/experience-carousel.php:203
+msgid "Featured experiences"
+msgstr ""
+
+#: elementor/widgets/listings.php:228 elementor/widgets/listing-carousel.php:235
+msgid "Featured listings"
+msgstr ""
+
+#: elementor/widgets/experiences.php:104 elementor/widgets/experience-carousel.php:104 elementor/widgets/listings.php:106 elementor/widgets/listing-carousel.php:106
+msgid "Featured on Top"
+msgstr ""
+
+#: templates/fields-builder/index.php:12 templates/fields-builder/fields-form.php:22
+msgid "Field Name"
+msgstr ""
+
+#: templates/fields-builder/index.php:5 templates/fields-builder/fields-form.php:15
+msgid "Fields Builder"
+msgstr ""
+
+#: classes/class-homey-init.php:507 classes/class-homey-init.php:508
+msgid "Fields builder"
+msgstr ""
+
+#: functions/emails.php:91
+msgid "Follow us on"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:128
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:90
+msgid "Grid"
+msgstr ""
+
+#: classes/class-review-post-type.php:157 classes/class-reservation-post-type.php:186 classes/class-exp-reservation-post-type.php:186
+msgid "Guests"
+msgstr ""
+
+#: elementor/widgets/space.php:87
+msgid "Height of the space(px)"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:224 elementor/widgets/experience-grids-v2.php:205 elementor/widgets/grids.php:240 elementor/widgets/grids-v2.php:238
+#: elementor/widgets/experience-grids.php:207 elementor/widgets/experience-grids-v2-carousel.php:191
+msgid "Hide Empty"
+msgstr ""
+
+#: classes/class-homey-init.php:487 classes/class-homey-init.php:488
+msgid "Homey"
+msgstr ""
+
+#. Name of the plugin
+msgid "Homey Core"
+msgstr ""
+
+#: elementor/elementor.php:61
+msgid "Homey Elements"
+msgstr ""
+
+#: elementor/widgets/grids.php:37
+msgid "Homey Grids"
+msgstr ""
+
+#: elementor/widgets/grids-v2.php:37
+msgid "Homey Grids v2"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:37
+msgid "Homey Grids v2 Carousel"
+msgstr ""
+
+#: elementor/widgets/search.php:90
+msgid "Horizontal"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/favethemes"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:43 elementor/widgets/icon-box.php:179
+msgid "Icon Box"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:98
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/widgets/experiences.php:512 elementor/widgets/experience-carousel.php:615 elementor/widgets/listings.php:581 elementor/widgets/listing-carousel.php:685
+#: elementor/widgets/listing-by-id.php:405 elementor/widgets/experience-by-ids.php:379 elementor/widgets/experience-by-id.php:366 elementor/widgets/listing-by-ids.php:418
+msgid "Icons"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:191
+msgid "Icons Boxes Settings"
+msgstr ""
+
+#: classes/class-review-post-type.php:151 classes/class-reservation-post-type.php:180 classes/class-exp-reservation-post-type.php:180 elementor/widgets/grids-v2-carousel.php:243
+#: elementor/widgets/experience-grids-v2.php:224 elementor/widgets/grids.php:259 elementor/widgets/grids-v2.php:257 elementor/widgets/testimonials.php:134 elementor/widgets/experience-grids.php:226
+#: elementor/widgets/experience-grids-v2-carousel.php:210 elementor/widgets/partners.php:92
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:87
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:338 elementor/widgets/experience-grids-v2.php:319 elementor/widgets/grids-v2.php:352 elementor/widgets/experience-grids-v2-carousel.php:305
+msgid "Image Radius"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:294 elementor/widgets/listing-carousel.php:326
+msgid "Infinite Scroll"
+msgstr ""
+
+#: functions/emails.php:210 functions/emails.php:339
+msgid "Invalid email address!"
+msgstr ""
+
+#: functions/emails.php:165 functions/emails.php:294
+msgid "Invalid Nonce!"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:34
+msgid "Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:80
+msgid "Invoice Title"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:83
+msgid "Invoice Type"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:33
+msgid "Invoices"
+msgstr ""
+
+#: elementor/widgets/experiences.php:525 elementor/widgets/experience-carousel.php:628 elementor/widgets/listings.php:594 elementor/widgets/listing-carousel.php:698
+#: elementor/widgets/listing-by-id.php:418 elementor/widgets/experience-by-ids.php:392 elementor/widgets/experience-by-id.php:379 elementor/widgets/listing-by-ids.php:431
+msgid "Labels"
+msgstr ""
+
+#: elementor/widgets/section-title.php:157
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:113 elementor/widgets/partners.php:128
+msgid "Limit"
+msgstr ""
+
+#: vc_shortcodes/grids-v2-carousel.php:153 vc_shortcodes/grids-v2.php:123 vc_shortcodes/experiences-grids-v2.php:119 vc_shortcodes/experiences-grids-v2-carousel.php:150 classes/class-permalinks.php:51
+#: classes/class-listing-post-type.php:57
+msgid "Listing"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:193 elementor/widgets/grids.php:209 elementor/widgets/grids-v2.php:207 elementor/widgets/listings.php:215 elementor/widgets/listing-carousel.php:214
+msgid "Listing Area"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:37
+msgid "Listing by ID"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:178 elementor/widgets/grids.php:194 elementor/widgets/grids-v2.php:192 elementor/widgets/listings.php:203 elementor/widgets/listing-carousel.php:202
+msgid "Listing City"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:148 elementor/widgets/grids.php:164 elementor/widgets/grids-v2.php:162 elementor/widgets/listings.php:179 elementor/widgets/listing-carousel.php:178
+msgid "Listing Country"
+msgstr ""
+
+#: classes/class-listing-post-type.php:444 elementor/widgets/listing-by-id.php:102
+msgid "Listing ID"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:226 elementor/widgets/listing-by-ids.php:115
+msgid "Listing IDs"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:163 elementor/widgets/grids.php:179 elementor/widgets/grids-v2.php:177 elementor/widgets/listings.php:191 elementor/widgets/listing-carousel.php:190
+msgid "Listing State"
+msgstr ""
+
+#: elementor/widgets/listings.php:121 elementor/widgets/listing-carousel.php:121 elementor/widgets/listing-by-id.php:87 elementor/widgets/listing-by-ids.php:87
+msgid "Listing style"
+msgstr ""
+
+#: elementor/widgets/experiences.php:271 elementor/widgets/experience-carousel.php:374 elementor/widgets/listings.php:301 elementor/widgets/listing-carousel.php:405
+#: elementor/widgets/listing-by-id.php:125 elementor/widgets/experience-by-ids.php:138 elementor/widgets/experience-by-id.php:125 elementor/widgets/listing-by-ids.php:138
+msgid "Listing Title"
+msgstr ""
+
+#: functions/emails.php:245
+msgid "Listing Title : "
+msgstr ""
+
+#: classes/class-permalinks.php:53 classes/class-listing-post-type.php:108 elementor/widgets/grids-v2-carousel.php:118 elementor/widgets/grids.php:134 elementor/widgets/grids-v2.php:132
+#: elementor/widgets/listings.php:155 elementor/widgets/listing-carousel.php:154
+msgid "Listing Type"
+msgstr ""
+
+#: functions/emails.php:249
+msgid "Listing URL : "
+msgstr ""
+
+#: vc_shortcodes/grids-v2-carousel.php:155 vc_shortcodes/grids-v2.php:125 vc_shortcodes/experiences-grids-v2.php:121 vc_shortcodes/experiences-grids-v2-carousel.php:152 classes/class-menu.php:30
+#: classes/class-listing-post-type.php:56 elementor/widgets/listings.php:37
+msgid "Listings"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:37
+msgid "Listings by IDs"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:37
+msgid "Listings Carousel"
+msgstr ""
+
+#: elementor/widgets/experiences.php:211 elementor/widgets/listings.php:243
+msgid "Load More"
+msgstr ""
+
+#: elementor/widgets/section-title.php:87 elementor/widgets/section-title.php:188
+msgid "Main Title"
+msgstr ""
+
+#: elementor/widgets/section-title.php:221
+msgid "Main Title Margin Bottom"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:294 classes/class-exp-reservation-post-type.php:294
+msgid "Mark Paid"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:138 elementor/widgets/partners.php:96
+msgid "Menu Order"
+msgstr ""
+
+#: functions/emails.php:503
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: elementor/widgets/listings.php:328
+msgid "Meta Figure"
+msgstr ""
+
+#: elementor/widgets/listings.php:421 elementor/widgets/listing-carousel.php:525 elementor/widgets/listing-by-id.php:245 elementor/widgets/listing-by-ids.php:258
+msgid "Meta Icons Size(px)"
+msgstr ""
+
+#: elementor/widgets/search.php:94
+msgid "Mixed Horizontal"
+msgstr ""
+
+#: elementor/widgets/search.php:95
+msgid "Mixed Vertical"
+msgstr ""
+
+#: templates/currency/currency-list.php:14
+msgid "N. of Decimal Point"
+msgstr ""
+
+#: classes/class-listing-post-type.php:654 classes/class-listing-post-type.php:663 classes/class-listing-post-type.php:672 classes/class-experience-post-type.php:668
+#: classes/class-experience-post-type.php:677 classes/class-experience-post-type.php:686
+msgid "NA"
+msgstr ""
+
+#: classes/class-listing-post-type.php:466 classes/class-listing-post-type.php:502 classes/class-listing-post-type.php:539 classes/class-experience-post-type.php:508
+#: classes/class-experience-post-type.php:541 classes/class-experience-post-type.php:578 classes/class-stripe.php:91 templates/currency/currency-list.php:10 elementor/widgets/grids-v2-carousel.php:241
+#: elementor/widgets/experience-grids-v2.php:222 elementor/widgets/grids.php:257 elementor/widgets/grids-v2.php:255 elementor/widgets/experience-grids.php:224
+#: elementor/widgets/experience-grids-v2-carousel.php:208
+msgid "Name"
+msgstr ""
+
+#: functions/emails.php:191 functions/emails.php:320 functions/emails.php:444
+msgid "Name field is empty!"
+msgstr ""
+
+#: classes/class-listing-post-type.php:158 classes/class-experience-post-type.php:213
+msgid "New Amenity"
+msgstr ""
+
+#: classes/class-listing-post-type.php:273 classes/class-experience-post-type.php:328
+msgid "New area"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:39
+msgid "New Cancel Policy"
+msgstr ""
+
+#: classes/class-listing-post-type.php:250 classes/class-experience-post-type.php:305
+msgid "New City"
+msgstr ""
+
+#: classes/class-listing-post-type.php:204 classes/class-experience-post-type.php:259
+msgid "New Country"
+msgstr ""
+
+#: classes/class-menu.php:100 classes/class-experience-post-type.php:66
+msgid "New Experience"
+msgstr ""
+
+#: classes/class-experience-post-type.php:139
+msgid "New Experience Language"
+msgstr ""
+
+#: classes/class-experience-post-type.php:115
+msgid "New Experience Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:181 classes/class-experience-post-type.php:236
+msgid "New Facility"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:38
+msgid "New Invoice"
+msgstr ""
+
+#: classes/class-menu.php:44 classes/class-listing-post-type.php:61
+msgid "New Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:110
+msgid "New Listing Type"
+msgstr ""
+
+#: functions/emails.php:483
+#, php-format
+msgid "New message sent by %s using contact form at %s"
+msgstr ""
+
+#: functions/emails.php:240 functions/emails.php:369
+#, php-format
+msgid "New message sent by %s using host contact form at %s"
+msgstr ""
+
+#: classes/class-partners-post-type.php:36
+msgid "New Partner"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:37 classes/class-exp-reservation-post-type.php:37
+msgid "New Reservation"
+msgstr ""
+
+#: classes/class-review-post-type.php:34
+msgid "New Review"
+msgstr ""
+
+#: classes/class-listing-post-type.php:134
+msgid "New Room Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:227 classes/class-experience-post-type.php:282
+msgid "New State"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:39
+msgid "New Testimonial"
+msgstr ""
+
+#: classes/class-experience-post-type.php:165
+msgid "New What Bring Item Type"
+msgstr ""
+
+#: classes/class-experience-post-type.php:189
+msgid "New What Provided Item Type"
+msgstr ""
+
+#: vc_shortcodes/blog-posts-carousel.php:46
+msgid "Next"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:365 elementor/widgets/experience-carousel.php:647 elementor/widgets/listing-carousel.php:718 elementor/widgets/experience-grids-v2-carousel.php:332
+msgid "Next/Prev buttons"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:330 elementor/widgets/listing-carousel.php:362
+msgid "Next/Prev Navigation"
+msgstr ""
+
+#: classes/class-listing-post-type.php:598 classes/class-experience-post-type.php:633 elementor/widgets/grids-v2-carousel.php:213 elementor/widgets/grids-v2-carousel.php:227
+#: elementor/widgets/experience-grids-v2.php:194 elementor/widgets/experience-grids-v2.php:208 elementor/widgets/grids.php:229 elementor/widgets/grids.php:243 elementor/widgets/grids-v2.php:227
+#: elementor/widgets/grids-v2.php:241 elementor/widgets/experience-carousel.php:298 elementor/widgets/experience-carousel.php:310 elementor/widgets/experience-carousel.php:333
+#: elementor/widgets/experience-carousel.php:347 elementor/widgets/listing-carousel.php:330 elementor/widgets/listing-carousel.php:342 elementor/widgets/listing-carousel.php:365
+#: elementor/widgets/listing-carousel.php:379 elementor/widgets/experience-grids.php:196 elementor/widgets/experience-grids.php:210 elementor/widgets/experience-grids-v2-carousel.php:180
+#: elementor/widgets/experience-grids-v2-carousel.php:194
+msgid "No"
+msgstr ""
+
+#: classes/class-listing-post-type.php:609 classes/class-experience-post-type.php:644
+msgid "No Address Provided!"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:42
+msgid "No Cancel Policy found"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:43
+msgid "No Cancel Policy found in Trash"
+msgstr ""
+
+#: classes/class-experience-post-type.php:69
+msgid "No Experience found"
+msgstr ""
+
+#: classes/class-experience-post-type.php:70
+msgid "No Experience found in Trash"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:41
+msgid "No Invoice found"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:42
+msgid "No Invoice found in Trash"
+msgstr ""
+
+#: classes/class-listing-post-type.php:64
+msgid "No Listing found"
+msgstr ""
+
+#: classes/class-listing-post-type.php:65
+msgid "No Listing found in Trash"
+msgstr ""
+
+#: classes/class-partners-post-type.php:39
+msgid "No Partner found"
+msgstr ""
+
+#: classes/class-partners-post-type.php:40
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:40 classes/class-exp-reservation-post-type.php:40
+msgid "No Reservation found"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:41 classes/class-exp-reservation-post-type.php:41
+msgid "No Reservation found in Trash"
+msgstr ""
+
+#: classes/class-review-post-type.php:37
+msgid "No Review found"
+msgstr ""
+
+#: classes/class-review-post-type.php:38
+msgid "No Review found in Trash"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:42
+msgid "No Testimonial found"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:43
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:133 elementor/widgets/partners.php:91
+msgid "None"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:147
+msgid "Not Paid"
+msgstr ""
+
+#: templates/currency/form.php:45
+msgid "Number of decimal points?"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:267 elementor/widgets/experience-grids-v2.php:248 elementor/widgets/grids.php:283 elementor/widgets/grids-v2.php:281
+#: elementor/widgets/experience-grids.php:250 elementor/widgets/experience-grids-v2-carousel.php:234
+msgid "Number of Items to Show"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:103 elementor/widgets/blog-posts.php:103
+msgid "Number of posts to show"
+msgstr ""
+
+#: elementor/widgets/experiences.php:236 elementor/widgets/experience-carousel.php:229 elementor/widgets/listings.php:268 elementor/widgets/listing-carousel.php:261
+msgid "Number of properties"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:115 elementor/widgets/partners.php:130
+msgid "Number of testimonials to show."
+msgstr ""
+
+#: elementor/widgets/testimonials.php:122
+msgid "Offset posts"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:253 elementor/widgets/experience-grids-v2.php:234 elementor/widgets/grids.php:269 elementor/widgets/grids-v2.php:267 elementor/widgets/testimonials.php:146
+#: elementor/widgets/experience-grids.php:236 elementor/widgets/experience-grids-v2-carousel.php:220 elementor/widgets/partners.php:106
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:238 elementor/widgets/experience-grids-v2.php:219 elementor/widgets/grids.php:254 elementor/widgets/grids-v2.php:252 elementor/widgets/testimonials.php:130
+#: elementor/widgets/experience-grids.php:221 elementor/widgets/experience-grids-v2-carousel.php:205 elementor/widgets/partners.php:88
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:251
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/experiences.php:544 elementor/widgets/listings.php:614
+msgid "Pagination"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:149
+msgid "Paid"
+msgstr ""
+
+#: classes/class-partners-post-type.php:32
+msgid "Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:31 elementor/widgets/partners.php:37
+msgid "Partners"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:84
+msgid "Payment Method"
+msgstr ""
+
+#: classes/class-permalinks.php:48 classes/class-homey-init.php:534 classes/class-homey-init.php:535
+msgid "Permalinks"
+msgstr ""
+
+#: classes/class-review-post-type.php:158 classes/class-reservation-post-type.php:187 classes/class-exp-reservation-post-type.php:187
+msgid "Pets"
+msgstr ""
+
+#: functions/emails.php:200 functions/emails.php:329
+msgid "Phone field is empty!"
+msgstr ""
+
+#: functions/emails.php:253 functions/emails.php:382 functions/emails.php:487
+msgid "Phone Number : "
+msgstr ""
+
+#: classes/class-review-post-type.php:150 classes/class-reservation-post-type.php:179 classes/class-exp-reservation-post-type.php:179
+msgid "Pic"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:27
+msgid "Placeholder"
+msgstr ""
+
+#: classes/class-stripe.php:123
+msgid "Please wait while we confirm your payment!"
+msgstr ""
+
+#: templates/currency/currency-list.php:13
+msgid "Position"
+msgstr ""
+
+#: classes/class-listing-post-type.php:470 classes/class-listing-post-type.php:506 classes/class-listing-post-type.php:543 classes/class-experience-post-type.php:512
+#: classes/class-experience-post-type.php:545 classes/class-experience-post-type.php:582
+msgid "Posts"
+msgstr ""
+
+#: vc_shortcodes/blog-posts-carousel.php:47
+msgid "Prev"
+msgstr ""
+
+#: classes/class-listing-post-type.php:438 classes/class-invoice-post-type.php:81 classes/class-experience-post-type.php:480 elementor/widgets/experiences.php:289 elementor/widgets/experiences.php:476
+#: elementor/widgets/experience-carousel.php:392 elementor/widgets/experience-carousel.php:579 elementor/widgets/listings.php:319 elementor/widgets/listings.php:545
+#: elementor/widgets/listing-carousel.php:423 elementor/widgets/listing-carousel.php:649 elementor/widgets/listing-by-id.php:143 elementor/widgets/listing-by-id.php:369
+#: elementor/widgets/experience-by-ids.php:156 elementor/widgets/experience-by-ids.php:343 elementor/widgets/experience-by-id.php:143 elementor/widgets/experience-by-id.php:330
+#: elementor/widgets/listing-by-ids.php:156 elementor/widgets/listing-by-ids.php:382
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/experiences.php:101 elementor/widgets/experience-carousel.php:101 elementor/widgets/listings.php:103 elementor/widgets/listing-carousel.php:103
+msgid "Price (High to Low)"
+msgstr ""
+
+#: elementor/widgets/experiences.php:100 elementor/widgets/experience-carousel.php:100 elementor/widgets/listings.php:102 elementor/widgets/listing-carousel.php:102
+msgid "Price (Low to High)"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:37
+msgid "Promo Box"
+msgstr ""
+
+#: functions/emails.php:454
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: elementor/widgets/experiences.php:425 elementor/widgets/experience-carousel.php:528 elementor/widgets/listings.php:494 elementor/widgets/listing-carousel.php:598
+#: elementor/widgets/listing-by-id.php:318 elementor/widgets/experience-by-ids.php:292 elementor/widgets/experience-by-id.php:279 elementor/widgets/listing-by-ids.php:331
+msgid "Radius"
+msgstr ""
+
+#: elementor/widgets/experiences.php:105 elementor/widgets/experience-carousel.php:105 elementor/widgets/listings.php:107 elementor/widgets/listing-carousel.php:107
+#: elementor/widgets/testimonials.php:137 elementor/widgets/partners.php:95
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:337 includes/widgets/homey-about.php:56
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:171
+msgid "Read More Link"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:164
+msgid "Read More Text"
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:73
+msgid "reCAPTCHA Failed:"
+msgstr ""
+
+#: elementor/widgets/register.php:37
+msgid "Register"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:33 classes/class-exp-reservation-post-type.php:33
+msgid "Reservation"
+msgstr ""
+
+#: classes/class-menu.php:65 classes/class-menu.php:66 classes/class-menu.php:121 classes/class-menu.php:122 classes/class-reservation-post-type.php:32
+msgid "Reservations"
+msgstr ""
+
+#: classes/class-review-post-type.php:30
+msgid "Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:29
+msgid "Reviews"
+msgstr ""
+
+#: elementor/widgets/section-title.php:165
+msgid "Right"
+msgstr ""
+
+#: classes/class-permalinks.php:55 classes/class-listing-post-type.php:132 elementor/widgets/grids-v2-carousel.php:133 elementor/widgets/grids.php:149 elementor/widgets/grids-v2.php:147
+#: elementor/widgets/listings.php:167 elementor/widgets/listing-carousel.php:166
+msgid "Room Type"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:41 classes/class-cancelpolicy-post-type.php:41
+msgid "Search Agent"
+msgstr ""
+
+#: classes/class-experience-post-type.php:68
+msgid "Search Experience"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:40
+msgid "Search Invoice"
+msgstr ""
+
+#: elementor/widgets/search.php:87
+msgid "Search Layout"
+msgstr ""
+
+#: classes/class-listing-post-type.php:63
+msgid "Search Listing"
+msgstr ""
+
+#: classes/class-partners-post-type.php:38
+msgid "Search Partner"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:39 classes/class-exp-reservation-post-type.php:39
+msgid "Search Reservation"
+msgstr ""
+
+#: classes/class-review-post-type.php:36
+msgid "Search Review"
+msgstr ""
+
+#: elementor/widgets/section-title.php:281
+msgid "Section Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/section-title.php:134
+msgid "Section Subtitle "
+msgstr ""
+
+#: elementor/widgets/section-title.php:37 elementor/widgets/section-title.php:114
+msgid "Section Title"
+msgstr ""
+
+#: elementor/widgets/section-title.php:79
+msgid "Section Titles"
+msgstr ""
+
+#: functions/emails.php:274 functions/emails.php:403 functions/emails.php:509
+msgid "Server Error: Make sure Email function working on your server!"
+msgstr ""
+
+#: elementor/widgets/space.php:89
+msgid "Set height of the space. You can add white space between elements to separate them beautifully."
+msgstr ""
+
+#: classes/class-permalinks.php:141
+msgid "Set up custom permalinks for the listing section on your site."
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:352 elementor/widgets/experience-grids-v2.php:333 elementor/widgets/grids-v2.php:366 elementor/widgets/experience-grids-v2-carousel.php:319
+#: elementor/widgets/icon-box.php:264
+msgid "Shadow"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:210 elementor/widgets/experience-grids-v2.php:191 elementor/widgets/grids.php:226 elementor/widgets/grids-v2.php:224
+#: elementor/widgets/experience-grids.php:193 elementor/widgets/experience-grids-v2-carousel.php:177
+msgid "Show Child"
+msgstr ""
+
+#: elementor/widgets/experiences.php:217 elementor/widgets/listings.php:249
+msgid "Show load more pagination"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:91
+msgid "Slides"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:277 elementor/widgets/listing-carousel.php:309
+msgid "Slides To Scroll"
+msgstr ""
+
+#: elementor/widgets/experience-carousel.php:260 elementor/widgets/listing-carousel.php:292
+msgid "Slides To Show"
+msgstr ""
+
+#: classes/class-listing-post-type.php:469 classes/class-listing-post-type.php:505 classes/class-listing-post-type.php:542 classes/class-experience-post-type.php:511
+#: classes/class-experience-post-type.php:544 classes/class-experience-post-type.php:581
+msgid "Slug"
+msgstr ""
+
+#: elementor/widgets/experiences.php:225 elementor/widgets/experience-carousel.php:218 elementor/widgets/listings.php:257 elementor/widgets/listing-carousel.php:250
+msgid "Sort By"
+msgstr ""
+
+#: elementor/widgets/experiences.php:311 elementor/widgets/experience-carousel.php:414 elementor/widgets/listings.php:350 elementor/widgets/listing-carousel.php:454
+#: elementor/widgets/listing-by-id.php:174 elementor/widgets/experience-by-ids.php:178 elementor/widgets/experience-by-id.php:165 elementor/widgets/listing-by-ids.php:187
+msgid "Spaces & Sizes"
+msgstr ""
+
+#: elementor/widgets/section-title.php:213
+msgid "Spacings"
+msgstr ""
+
+#: classes/class-permalinks.php:63 classes/class-listing-post-type.php:225 classes/class-experience-post-type.php:280 elementor/widgets/experience-grids-v2.php:153
+#: elementor/widgets/experience-grids.php:155 elementor/widgets/experience-grids-v2-carousel.php:139
+msgid "State"
+msgstr ""
+
+#: classes/class-review-post-type.php:152 classes/class-reservation-post-type.php:181 classes/class-invoice-post-type.php:86 classes/class-exp-reservation-post-type.php:181
+msgid "Status"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:282 elementor/widgets/experience-grids-v2.php:263 elementor/widgets/grids-v2.php:296 elementor/widgets/experience-grids-v2-carousel.php:249
+msgid "Style"
+msgstr ""
+
+#: templates/currency/form.php:10 templates/fields-builder/fields-form.php:10
+msgid "Submit"
+msgstr ""
+
+#: elementor/widgets/section-title.php:95 elementor/widgets/section-title.php:199
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/section-title.php:251
+msgid "Subtitle Margin Bottom"
+msgstr ""
+
+#: classes/class-review-post-type.php:159 classes/class-reservation-post-type.php:188 classes/class-exp-reservation-post-type.php:188
+msgid "Subtotal"
+msgstr ""
+
+#: templates/currency/currency-list.php:12
+msgid "Symbol"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:34 elementor/widgets/testimonials.php:37
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:87
+msgid "Testimonials Type"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:157
+msgid "Text"
+msgstr ""
+
+#: classes/class-currencies.php:166
+msgid "The currency has been added, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:173
+msgid "The currency has been updated, excellent!"
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:68
+msgid "The request is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:67
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:66
+msgid "The response parameter is missing."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:65
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:64
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: classes/class-currencies.php:180
+msgid "There has been an error. Bummer!"
+msgstr ""
+
+#: templates/currency/currency-list.php:16
+msgid "Thousands Separator"
+msgstr ""
+
+#: templates/currency/form.php:68
+msgid "Thousands Separator(eg: ,)"
+msgstr ""
+
+#: classes/class-listing-post-type.php:436 classes/class-experience-post-type.php:478
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/class-listing-post-type.php:435 classes/class-experience-post-type.php:477 elementor/widgets/testimonials.php:135 elementor/widgets/register.php:87 elementor/widgets/icon-box.php:150
+#: elementor/widgets/icon-box.php:275 elementor/widgets/partners.php:93 elementor/widgets/promo-boxes.php:95
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/grids-v2-carousel.php:290 elementor/widgets/experience-grids-v2.php:271 elementor/widgets/experiences.php:488 elementor/widgets/grids-v2.php:304
+#: elementor/widgets/experience-carousel.php:591 elementor/widgets/listings.php:557 elementor/widgets/listing-carousel.php:661 elementor/widgets/listing-by-id.php:381
+#: elementor/widgets/experience-by-ids.php:355 elementor/widgets/experience-grids-v2-carousel.php:257 elementor/widgets/experience-by-id.php:342 elementor/widgets/listing-by-ids.php:394
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/experiences.php:322 elementor/widgets/experience-carousel.php:425 elementor/widgets/listings.php:361 elementor/widgets/listing-carousel.php:465
+#: elementor/widgets/listing-by-id.php:185 elementor/widgets/experience-by-ids.php:189 elementor/widgets/experience-by-id.php:176 elementor/widgets/listing-by-ids.php:198
+msgid "Title Margin Bottom(px)"
+msgstr ""
+
+#: elementor/widgets/section-title.php:181
+msgid "Titles Colors"
+msgstr ""
+
+#: classes/class-listing-post-type.php:437 classes/class-experience-post-type.php:479 templates/fields-builder/fields-form.php:32 elementor/widgets/experience-grids-v2.php:129
+#: elementor/widgets/experiences.php:298 elementor/widgets/experience-carousel.php:401 elementor/widgets/listings.php:337 elementor/widgets/listing-carousel.php:441
+#: elementor/widgets/listing-by-id.php:161 elementor/widgets/experience-by-ids.php:165 elementor/widgets/experience-grids.php:131 elementor/widgets/experience-grids-v2-carousel.php:115
+#: elementor/widgets/experience-by-id.php:152 elementor/widgets/listing-by-ids.php:174
+msgid "Type"
+msgstr ""
+
+#: elementor/widgets/experiences.php:262 elementor/widgets/experience-carousel.php:365 elementor/widgets/listings.php:292 elementor/widgets/listing-carousel.php:396
+#: elementor/widgets/listing-by-id.php:116 elementor/widgets/experience-by-ids.php:129 elementor/widgets/icon-box.php:284 elementor/widgets/icon-box.php:315 elementor/widgets/icon-box.php:346
+#: elementor/widgets/section-title.php:105 elementor/widgets/experience-by-id.php:116 elementor/widgets/listing-by-ids.php:129
+msgid "Typography"
+msgstr ""
+
+#: templates/currency/form.php:6 templates/fields-builder/fields-form.php:6
+msgid "Update"
+msgstr ""
+
+#: templates/currency/form.php:5
+msgid "Update Currency"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:5
+msgid "Update field"
+msgstr ""
+
+#: classes/class-permalinks.php:35
+msgid "Update Permalinks"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:112
+msgid "URL"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:120
+msgid "URL Text"
+msgstr ""
+
+#: elementor/widgets/search.php:91
+msgid "Vertical"
+msgstr ""
+
+#: classes/class-cancelpolicy-post-type.php:40
+msgid "View Cancel Policy"
+msgstr ""
+
+#: classes/class-review-post-type.php:244 classes/class-reservation-post-type.php:305 classes/class-exp-reservation-post-type.php:305
+msgid "View Detail"
+msgstr ""
+
+#: classes/class-experience-post-type.php:67
+msgid "View Experience"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:39
+msgid "View Invoice"
+msgstr ""
+
+#: classes/class-listing-post-type.php:62
+msgid "View Listing"
+msgstr ""
+
+#: classes/class-partners-post-type.php:37
+msgid "View Partner"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:38 classes/class-exp-reservation-post-type.php:38
+msgid "View Reservation"
+msgstr ""
+
+#: classes/class-review-post-type.php:35
+msgid "View Review"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:40
+msgid "View Testimonial"
+msgstr ""
+
+#: classes/class-experience-post-type.php:163
+msgid "What Bring Item Type"
+msgstr ""
+
+#: classes/class-experience-post-type.php:187
+msgid "What Provided Item Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:600 classes/class-experience-post-type.php:635 elementor/widgets/grids-v2-carousel.php:214 elementor/widgets/grids-v2-carousel.php:228
+#: elementor/widgets/experience-grids-v2.php:195 elementor/widgets/experience-grids-v2.php:209 elementor/widgets/grids.php:230 elementor/widgets/grids.php:244 elementor/widgets/grids-v2.php:228
+#: elementor/widgets/grids-v2.php:242 elementor/widgets/experience-carousel.php:297 elementor/widgets/experience-carousel.php:311 elementor/widgets/experience-carousel.php:334
+#: elementor/widgets/experience-carousel.php:348 elementor/widgets/listing-carousel.php:329 elementor/widgets/listing-carousel.php:343 elementor/widgets/listing-carousel.php:366
+#: elementor/widgets/listing-carousel.php:380 elementor/widgets/experience-grids.php:197 elementor/widgets/experience-grids.php:211 elementor/widgets/experience-grids-v2-carousel.php:181
+#: elementor/widgets/experience-grids-v2-carousel.php:195
+msgid "Yes"
+msgstr ""
+
+#: functions/emails.php:258 functions/emails.php:387 functions/emails.php:491
+#, php-format
+msgid "You can contact %s via email %s"
+msgstr ""
+
+#: elementor/widgets/experiences.php:203 elementor/widgets/experience-carousel.php:210
+msgid "You can make a post featured by clicking the featured experiences checkbox while add/edit post"
+msgstr ""
+
+#: elementor/widgets/listings.php:235 elementor/widgets/listing-carousel.php:242
+msgid "You can make a post featured by clicking the featured listings checkbox while add/edit post"
+msgstr ""
+
+#: functions/emails.php:485
+msgid "You have received a message from: "
+msgstr ""
+
+#: functions/emails.php:242 functions/emails.php:371
+msgid "You have received new message from: "
+msgstr ""
+
+#: classes/class-stripe.php:99
+msgid "Your Email"
+msgstr ""
+
+#: functions/emails.php:463
+msgid "Your message empty!"
+msgstr ""
+
+#: functions/emails.php:219 functions/emails.php:348
+msgid "Your message is empty!"
+msgstr ""
+
+#: classes/class-stripe.php:92
+msgid "Your Name"
+msgstr ""
+
+#: vc_shortcodes/register.php:23
+msgid "You are logged in, explore the website"
+msgstr ""
